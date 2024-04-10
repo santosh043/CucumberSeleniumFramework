@@ -1,0 +1,9 @@
+common\BasePage.class
+pageClasses\IndexPage.class
+common\Hooks.class
+pageClasses\LoginPage.class
+pageClasses\ProductPage.class
+pageClasses\CartPage.class
+dataProviders\ConfigFileReader.class
+pageClasses\HomePage.class
+pageClasses\ProductsListPage.class
